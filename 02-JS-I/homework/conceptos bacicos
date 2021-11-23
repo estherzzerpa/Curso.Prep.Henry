@@ -1,0 +1,22 @@
+hola!!
+1) Que es una variable?
+Una variable basicamente es una forma de asignar un valor, y ese valor se guarda con el nombre que sea, 
+si es un nombre mas especifico y descriptivo mejor, y esos valores se pueden modificar .
+
+2) instrumentos de cuerda:
+Estoy dudosa, serian los strings, fue lo que lei en una pag aparte. Los strings es un tipo de dato, asi como los numbers, booleans. etc
+Son cadenas de texto, siempre van rodeadas de comillas dobles ("") o simples('') de esta manera el lenguaje lo entiende como un texto.
+
+3) Funciones(argumentos, return):
+las funciones como lo entiendo, es una serie de instrucciones que la podemos almacenar y nos ejecuta alguna funcion y dicha ejecucion la podemos mandar a llamar cuando necesitemos,
+ para llamarla necesitamos siempre usar los parametros ()
+ dentro de estos van los argumentos que le otorgamos si son necesarios, o tambien pueden estar vacios. 
+ Los return es lo que nos regresara la funcion cuando la ejecutemos, y lo que se escriba despues del return ya eso no se ejecuta, le quita la importancia a esas lineas de codigo
+
+4) Declaraciones If:
+Los if son condionales, es decir nos da una respuesta de si o no (true o false)
+ las condiciones la indicamos dentro de los parametros  ejemplo if( 1 > 2 ){return true} si se cumple, se ejecuta. 
+
+5) Valores booleanos:
+Los booleanos uno de los tipos de datos, estos son true o false, nos indicara si un valor es verdadero o falso.
+

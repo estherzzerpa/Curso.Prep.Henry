@@ -1,0 +1,9 @@
+El ciclo for:
+Es un bucle que se va ejecutando hasta que se cumpla la condicion que se le indique, le pasamos los parametros el primero es valor de la variable
+luego la condicion que queremos que se cumpla, y por ultimo el valor si va en incremento o decremento.
+
+&& || ! operadores logicos:
+El AND y el OR agrupan condiciones, por ejemplo si queremos que dos condiciones nos devuelva true sin excepcion,
+ usamos el operdor AND y si una de estas no se cumple sera directamente un false.
+Si queremos que alguno se cumpla, osea con que uno sea true, el resultado va a ser un true sin importar si una condicion es false.
+Por ultimo el operador NOT (!) invierte o niega los valores/condiciones, si es un true lo pasa a false y viceversa
