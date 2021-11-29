@@ -1,0 +1,24 @@
+Objetos
+Propiedades
+Métodos
+Bucle for…in
+Notación de puntos vs notación de corchetes
+
+1): los objetos nos brindan la posibilidad de almacenar mucha informacion de una cosa,
+ y todo lo que empleamos en este lenguaje hace uso de objetos. la sintaxis es Clave: valor
+ en la palabra clave se almacena el valor, que puede ser cualquier tipo de dato de JS.
+ 
+2) Propiedades: Las propiedades son las palabras clave, que almacenamos en los objetos.
+
+3) Metodos: las funciones que creamos dentro de un objeto son llamadas metodos, tambien podemos acceder a ellos mediante la con notacion de puntos,
+  y al final los parametros (), con o sin argumentos, unido con el nombre del objeto o a quien le queramos aplicar la funcionalidad.
+
+4) Bucle for in: Este bucle es utilizado para poder acceder a las propiedades de los objetos, e iterar cada uno de sus valores.
+su sintaxis la definimos con primero una variable donde colocamos la palabra clave,
+despues del "in" viene el nombre del objeto al que se lo querramos aplicar.
+
+5) Notacion de puntos VS Notacion de corchetes: Estos los utilzamos para acceder a las propiedades del objeto,
+mediante el punto, o los corchetes,  en con notacion de punto va primero el nombre del objeto, un punto y luego el nombre de la palabra clave
+La de corchetes tambien primero el nombre del objeto y luego dentro del los corchetes y  entre comillas va el nombre de la palabra clave,
+o sin comillas si es una propiedad con el mismo nombre de la propiedad(clave)
+
