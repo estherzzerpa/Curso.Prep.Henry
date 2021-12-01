@@ -1,6 +1,6 @@
 1) Prototype: Son todas las propiedades de JS, y podemos crear nuestras propias propiedades(protos), de esta forma es mas eficiente
 ya que podemos crear una sola vez un metodo, y reutilizarlo en diferentes escenarios. si el objeto no tiene la propiedad,
-entoces se va a dirigir a los prototipos
+entoces se va a dirigir a los prototipos, y estos el compilador no  reserva un espacio de memoria, de lo contrario de los metodos.
 
 basicamente los prototipos son atributos y metodos que los objetos  pueden heredar 
 
