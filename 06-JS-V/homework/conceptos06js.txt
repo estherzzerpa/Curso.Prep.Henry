@@ -1,0 +1,11 @@
+1) Prototype: Son todas las propiedades de JS, y podemos crear nuestras propias propiedades(protos), de esta forma es mas eficiente
+ya que podemos crear una sola vez un metodo, y reutilizarlo en diferentes escenarios. si el objeto no tiene la propiedad,
+entoces se va a dirigir a los prototipos
+
+basicamente los prototipos son atributos y metodos que los objetos  pueden heredar 
+
+2) Constructors: es un patron que podemos contruir, y reutilizarlo igualmente. la sintaxis es un poco diferente a la de los objetos, pero tiene similitud
+esta es mas eficiente, y nos ahorrara lineas de codigo, de los Constructores se instacian los valores, es decir una extencion de informacion,
+la base ya se construye y lo que puede variar es informacion.
+
+Las Clases es un modelo a seguir, para ahi basarnos y generar las instancias
