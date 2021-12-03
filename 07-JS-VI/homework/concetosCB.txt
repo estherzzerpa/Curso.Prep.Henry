@@ -1,0 +1,6 @@
+*CallBacks:
+
+ Los CallBacks son argumentos que llaman otra funcion.
+osea podemos llamar dentro de una funcion otra funcion o metodo,
+que nos devuelva alguna ejecucion que querramos anidar dentro,
+y juntas hacen una SUPER FUNCIONALIDAD :D
